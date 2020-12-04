@@ -1,5 +1,6 @@
 1. Install tesseract using windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki
-
+  * 설치시 추가언어에 한글 포함
+  
 2. Note the tesseract path from the installation. 
    Default installation path at the time of this edit was: C:\Users\USER\AppData\Local\Tesseract-OCR. 
    (C:\Program Files\Tesseract-OCR)

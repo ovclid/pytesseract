@@ -15,3 +15,12 @@ https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error
 
 4. Set the tesseract path in the script before calling image_to_string:
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
+
+
+
+5. https://github.com/tesseract-ocr/tessdata
+ 한글 추출의 정확도를 높이기 위해 training data 추가 
+ 2개 파일 다운로드 후 설치폴더에(C:\Program Files\Tesseract-OCR\tessdata) 덮어쓰기 
+ kor.traineddata(15MB), kor_vert.traineddata(1MB)
+
+

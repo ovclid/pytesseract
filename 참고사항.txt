@@ -28,3 +28,10 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-
 
 
 참고영상 : https://www.youtube.com/watch?v=JkzFjj2hjtw
+
+
+poppler설치
+
+1. http://blog.alivate.com.au/poppler-windows/
+
+2. https://stackoverflow.com/questions/18381713/how-to-install-poppler-on-windows
